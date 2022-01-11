@@ -1,0 +1,10 @@
+python3 findORFs.py <tass2.fa >tass2ORFdata-ATG-100.txt
+
+
+or
+
+python3 findORFs.py <tass2.fa >output.txt
+
+or anything like:
+
+python3 findORFs.py <tass2.fa >OUTPUT_FILE_NAME

@@ -1,0 +1,12 @@
+   {
+    "experiments": [
+        "6well-raspi-2020-10-06-18-28-54.json",
+        "6well-raspi-2020-10-06-18-30-17.json",
+        "6well-intancontroller.json",
+        "24well-intancontroller.json"
+    ],
+    "issue": " ",
+    "notes": " ",
+    "timestamp": "2020-10-06T17:41:31",
+    "uuid": "2020-10-06-e-UCSF-neurons-axionplate"
+    }
